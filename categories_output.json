@@ -1,0 +1,3546 @@
+[
+    {
+        "addedby": 47,
+        "addon": "2018-11-29 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": [
+            {
+                "answertype": "multiple",
+                "enquiryquestion": "Please select the event",
+                "options": [
+                    "Wedding",
+                    "Pre-wedding",
+                    "Engagement",
+                    "Mehendi",
+                    "Sangeet",
+                    "Corporate event",
+                    "Birthday",
+                    "Others"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "enquiryquestion": "Please select the type of photography you're looking for",
+                "options": [
+                    "Traditional",
+                    "Candid",
+                    "Moody",
+                    "Potrait",
+                    "Cinematography",
+                    "Others"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "enquiryquestion": "How many guests do you plan to have?",
+                "options": [
+                    "0 - 50",
+                    "50 - 100",
+                    "100 - 200",
+                    "200 or more",
+                    "Other"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "enquiryquestion": "In which format you need final delivery?",
+                "options": [
+                    "digital only",
+                    "digital and printed album",
+                    "printed album only"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "enquiryquestion": "What is your event budget?",
+                "options": [
+                    "Over 200000",
+                    "150000 - 200000",
+                    "100000 - 150000",
+                    "80000 - 100000",
+                    "Less than 80000",
+                    "Not sure"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "enquiryquestion": "Add a quick note...",
+                "options": [
+                    "(Vendors love learning more about what you're looking for)"
+                ],
+                "selectionoptions": "text",
+                "status": "1"
+            }
+        ],
+        "extrainfo": {
+            "Description": "Compare & hire best wedding photographers & videographers in India for candid photography, pre-wedding shoot, and event photography. Get best discounts from top wedding and event photographers in India",
+            "Detail1": "Your Stress-free vendor search for an event photographer is HERE!\r\n\r\nWith all the excitement and expectations that comes with planning your wedding or any big event, the day finally comes and goes more quickly that you\u2019d even think of. While you should revel in each moment, one thing is for sure: you\u2019ll want to relive it forever. The best way to draw value out of all you put into your big day is to make these moments tangible. To help you in this, we have listed 2000+ photography vendors here so that you can find the one that suits your taste, budget, preferences, style etc. \r\n",
+            "Detail2": "We will help you get the ball rolling with the most experienced and professional photographers fitting right into your budget, location, city, and more at one place. ",
+            "Keywords": "Compare & hire best wedding photographers & videographers in India for candid photography,  pre-wedding shoot, and event photography. Get best discounts from top wedding and event photographers in India",
+            "Title": "Best Wedding Photographers in India | Event Videography Packages"
+        },
+        "faqs": [
+            {
+                "answertype": "many",
+                "defaultanswer": "local travel included",
+                "faq": "Who pays for the travel done to reach the event destination?",
+                "options": [
+                    "local travel included",
+                    "client to cover outstation travel"
+                ],
+                "selectionoptions": "many",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Do you offer candid photography services?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Your charges are GST inclusive?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            }
+        ],
+        "features": [
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Artistic",
+                    "Classic",
+                    "Dramatic"
+                ],
+                "featurename": "Photo and Video Styles",
+                "featurequestions": "What are your photo & video styles?",
+                "options": [
+                    "Artistic",
+                    "Classic",
+                    "Documentary",
+                    "Dramatic",
+                    "Lifestyle",
+                    "Modern"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Coorporate Events",
+                    "Day After Session",
+                    "Engagement",
+                    "Bridal Portraits"
+                ],
+                "featurename": "Photo Shoot Types",
+                "featurequestions": "What kind of photo shoot types you do?",
+                "options": [
+                    "Engagement",
+                    "Corporate event",
+                    "wedding",
+                    "family celebration",
+                    "bridal portrait",
+                    "office shoot",
+                    "entertainment event",
+                    "business project"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Coorporate Events",
+                    "Ring Ceremony",
+                    "Rehearsals & Parties",
+                    "Wedding",
+                    "Birthdays"
+                ],
+                "featurename": "Events Types",
+                "featurequestions": "What kind of events do you accept?",
+                "options": [
+                    "Coorporate Events",
+                    "Ring Ceremony",
+                    "Wedding",
+                    "Birthdays",
+                    "College Fests",
+                    "Company Annual Functions",
+                    "party",
+                    "business event",
+                    "ring ceremony"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Digital Files",
+                    "Online Proofing",
+                    "Printed Enlargements"
+                ],
+                "featurename": "Deliverables",
+                "featurequestions": "What are deliverables to customers?",
+                "options": [
+                    "Digital Files",
+                    "Online Proofing",
+                    "Printed Enlargements",
+                    "album",
+                    "digital invites",
+                    "Merchandise",
+                    "editing"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": [
+                    "100",
+                    "150",
+                    "200",
+                    "250",
+                    "300",
+                    "400",
+                    "500"
+                ],
+                "featurename": "No. of guests",
+                "featurequestions": "How many guests do you plan to have?",
+                "options": [
+                    "0-50",
+                    "50-100",
+                    "100-200",
+                    "200 or more",
+                    "Other"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            }
+        ],
+        "filters": [
+            {
+                "filtername": "Establishment Year",
+                "filteroptions": [
+                    "2018-2019",
+                    "2014-2018",
+                    "2010-2014",
+                    "2000-2010"
+                ],
+                "filterquestions": "When did you started your business?",
+                "status": "1"
+            },
+            {
+                "filtername": "Service Types",
+                "filteroptions": [
+                    "Candid",
+                    "Pre-Wedding"
+                ],
+                "filterquestions": "What kind of services you provide?",
+                "status": "1"
+            },
+            {
+                "filtername": "Event Types",
+                "filteroptions": [
+                    "Weddings",
+                    "Coorporate",
+                    "Birthday"
+                ],
+                "filterquestions": "What kind of events?",
+                "status": "1"
+            },
+            {
+                "filtername": "Starting Price",
+                "filteroptions": [
+                    "10000 Rs",
+                    "50000 Rs",
+                    "150000 Rs"
+                ],
+                "filterquestions": "What is your starting price?",
+                "status": "1"
+            },
+            {
+                "filtername": "City",
+                "filteroptions": [
+                    "Delhi",
+                    "Mumbai",
+                    "Pune"
+                ],
+                "filterquestions": "Which city do you provide services?",
+                "status": "1"
+            }
+        ],
+        "largeImage": "https://d3yc0vf2cv0zf.cloudfront.net/categories/6/photos/cover/mLACvYefLQaTxNVyXy9cNLhAanumIccw.jpg",
+        "policies": [
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Booking Policy",
+                "policyquestion": "What is your booking policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Cancellation policy",
+                "policyquestion": "What is your cancellation policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Travel Policy",
+                "policyquestion": "What is your travel policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Terms & Conditions",
+                "policyquestion": "What are your Terms and Conditions?",
+                "status": "1"
+            }
+        ],
+        "seoinfo": {
+            "Description": "Compare & hire best wedding photographers & videographers in  ##city##  for candid photography,  pre-wedding shoot, and event photography. Get  ##city##  discounts from top wedding and event photographers in  ##city##  ",
+            "Detail1": "Top photographers of  ##city##   that are known for their massive lens skills. These Indian photographers are famous for capturing special moments for all types of events including weddings, pre-wedding ceremonies, sangeet, DJ night, conference parties, anniversaries, carnivals and birthday parties. Eventswedo brings top photographers and videographers in Delhi, Mumbai, Chandigarh, Kolkata, Pune, Bangalore, Chennai, Hyderabad, and other major Indian cities. ",
+            "Detail2": "Hiring one of these Indian photographers will help you gather beautiful memories that you can adore all your life. Check out the prices and packages from recommended photography and videography vendors to ensure that you will find the best one for your requirements and budget. Take a look at the portfolio of top Indian photographers. Email or Contact them to check out their availability for your event!",
+            "Keywords": "Compare & hire best wedding photographers & videographers in ##city##  for candid photography, pre-wedding shoot, and event photography. Get   ##city##   discounts from top wedding and event photographers in  ##city##  ",
+            "Title": "Best Wedding Photographers in  ##city##  | Event Videography Packages"
+        },
+        "status": 1,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/6/photos/cover/3X9D7zoRCdwdavhA1dMPQftFPR7D4CXr.jpg",
+        "updatedby": 48,
+        "updatedon": "2020-12-24 03:19:53",
+        "vcategoryid": 6,
+        "vcategoryname": "Photographers",
+        "viewcount": 40412,
+        "vslug": "photographers"
+    },
+    {
+        "addedby": 47,
+        "addon": "2018-11-29 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": [
+            {
+                "answertype": "text",
+                "enquiryquestion": "What is your event date?",
+                "options": [
+                    ""
+                ],
+                "selectionoptions": "text",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "enquiryquestion": "Which describes your event best?",
+                "options": [
+                    "Wedding",
+                    "Mehendi",
+                    "Sangeet",
+                    "Cocktail",
+                    "Corporate Bash",
+                    "Birthday",
+                    "Anniversary",
+                    "Seminar",
+                    "Other"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "enquiryquestion": "How many guests do you plan to have?",
+                "options": [
+                    "0-50",
+                    "50-100",
+                    "100-200",
+                    "200 - 500",
+                    "500 or more"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "enquiryquestion": "What kind of catering style you want?",
+                "options": [
+                    "Plated meal",
+                    "Buffet",
+                    "Sit-down dinner",
+                    "Full-service"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "enquiryquestion": "Do you want to set up a cocktail bar?",
+                "options": [
+                    "Yes ",
+                    "No"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "enquiryquestion": "What cuisines you want for your event?",
+                "options": [
+                    "North Indian",
+                    "Continental",
+                    "Chinese",
+                    "South Indian",
+                    "Others"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "enquiryquestion": "Do you follow any dietary restrictions? If yes, please tell in detail. ",
+                "options": [
+                    "Yes ",
+                    "No"
+                ],
+                "selectionoptions": "text",
+                "status": "1"
+            }
+        ],
+        "extrainfo": {
+            "Description": "We at Eventswedo are specialised in catering Services in India to a variety of events and weddings. Search and find the top event and wedding caterers in India at the best prices.",
+            "Detail1": "Caterers can make or break any event. Whether it is a wedding, reception, family reunion, corporate party or any other special event food is always point of discussion. Events Wedo helps you ease the process of finding the most important vendor for your event by listing a wide array of caterers who covers everything from baby showers, business lunches, corporate events, family functions, and private parties & weddings. They have years of experience in party planning and will make sure it is a delicious success, enjoy and memorable for you and your guests!\r\n",
+            "Detail2": "Browse through our long list of caterers who are known for making delectable cuisines, innovative menus & meticulous planning.  Check out the prices and packages of caterers on Eventswedo to ensure that you will find the best one for your function. Take a look at the portfolio of top Indian caterers to see what kind of food is being served to modern guests. Email or contact them to check out their availability for your event!\r\n\r\nSo, what are you waiting for? Time to put your party hat on!",
+            "Keywords": "best caterers of india, catering near me, top caterers of india, wedding caterers india, event caterers india, hire caterers near me",
+            "Title": "Best Event Catering Services in India, Wedding Caterers in India"
+        },
+        "faqs": [
+            {
+                "answertype": "one",
+                "defaultanswer": "Brought in prepared",
+                "faq": "Will the food be prepared on-site or be brought in already prepared?",
+                "options": [
+                    "On-site",
+                    "Brought in prepared"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "Yes",
+                "faq": "Do you provide alcoholic beverages and bartenders?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "We can",
+                "faq": "Can you create a custom menu for our event? ",
+                "options": [
+                    "we can",
+                    "we can't"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Do you handle rental equipment such as tables, chairs, etc.?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Your charges are GST inclusive?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Do you provide non-vegetarian food?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            }
+        ],
+        "features": [
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Indian"
+                ],
+                "featurename": "Cuisines",
+                "featurequestions": "What kind of cuisines do you specialize in?",
+                "options": [
+                    "Indian",
+                    "Chinese",
+                    "Mexican",
+                    "Italian",
+                    "Barbeque",
+                    "Regional foods"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Business event"
+                ],
+                "featurename": "Events covered",
+                "featurequestions": "What kind of events do you accept? ",
+                "options": [
+                    "Wedding",
+                    "Birthday",
+                    "Anniversary",
+                    "Corporate event",
+                    "College event",
+                    "Party",
+                    "Ring ceremony",
+                    "family function",
+                    "Business event"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": [
+                    "Above 1500 INR"
+                ],
+                "featurename": "Per Plate Cost",
+                "featurequestions": "How much do you charge per plate? ",
+                "options": [
+                    "Below 500 INR",
+                    "500-1000 INR",
+                    "1000-1500 INR",
+                    "Above 1500 INR"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Christian foods"
+                ],
+                "featurename": "Specials",
+                "featurequestions": "Do you offer specials in your meals?",
+                "options": [
+                    "Jain food",
+                    "Fast food",
+                    "vraat food",
+                    "Punjabi food",
+                    "Chinese food",
+                    "Muslim foods",
+                    "Marwadi food",
+                    "South Indian food",
+                    "Christian foods"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            }
+        ],
+        "filters": "",
+        "largeImage": "https://www.eventswedo.com/img/cat/Catring-2.jpg",
+        "policies": [
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Catering capacity",
+                "policyquestion": "What is minimum & minimum capacity of people you give catering services to? ",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Booking policy",
+                "policyquestion": "What are your booking policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Cancellation policy",
+                "policyquestion": "What is your cancellation policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Terms & conditions",
+                "policyquestion": "What are your terms and conditions?",
+                "status": "1"
+            }
+        ],
+        "seoinfo": {
+            "Description": "We at Eventswedo are specialized in catering Services in ##city## to a variety of events and weddings. Search and find the top event and wedding caterers in ##city## at the best prices.",
+            "Detail1": "Indian weddings are incomplete without mouth-watering food. That\u2019s why Eventswedo brings for you the list of the best caterers in Delhi, Mumbai, Chandigarh, Kolkata, Pune, Bangalore, Chennai, Hyderabad, and other major Indian cities. Our partner caterers are known for catering small and big social events including weddings, corporate events, family functions, and private parties. From serving local cuisines to international dishes, these top Indian caterers can provide all kinds of culinary delights for your event.",
+            "Detail2": "Check out the prices and packages of caterers on Eventswedo to to ensure that you will find the best one for your function. Take a look at the portfolio of top Indian caterers to see what kind of food is being served to modern guests. Email or contact them to check out their availability for your event!",
+            "Keywords": "best caterers of ##city##, catering near me, top caterers of ##city##, wedding caterers ##city##, event caterers ##city##, hire caterers near me",
+            "Title": "Best Event cattering Services in ##city##, Wedding Caterers in ##city##"
+        },
+        "status": 1,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/7/photos/cover/me9x63ln2fgpBIM4PsiyHSJQSvquE5Cd.jpg",
+        "updatedby": 48,
+        "updatedon": "2021-01-02 03:41:13",
+        "vcategoryid": 7,
+        "vcategoryname": "Catering",
+        "viewcount": 12743,
+        "vslug": "catering"
+    },
+    {
+        "addedby": 47,
+        "addon": "2018-11-29 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": null,
+        "extrainfo": {
+            "Description": "Find best DJs near you for Indian weddings, parties, events, sangeet, and mehendi. Compare price of local DJ service providers and read reviews to hire the best. Browse Eventswedo for special wedding and event DJ discounts & offers.",
+            "Detail1": "Indian weddings tend to remain incomplete if there\u2019s no music and dancing. That\u2019s why Eventswedobrings top DJs of Delhi, Mumbai, Chandigarh, Kolkata, Pune, Bangalore, Chennai, Hyderabad, and other major Indian cities! Our vetted DJs and music experts are known for bringing guests to the dance floor with their expertise and set the mood for any event. From Mehendi parties to EDM nights and weddings to birthday celebrations, these best Indian DJs have covered up all types of events.",
+            "Detail2": "All DJs and music experts from Eventswedo bring professional-grade sound system required for weddings as well as events. Check out the prices and packages from leading DJs in India to hire the best at the lowest price! Have a look at the portfolio of top Indian wedding & event DJs to see what are their specialties, experience, and ratings. Email or contact them to check out their availability for your event!",
+            "Keywords": "top djs of india, best djs india, hire dj for wedding, hire dj for events, best dj packages, djs near me, ",
+            "Title": "Hire DJs for weddings & events | Book Best Indian DJs Near You  "
+        },
+        "faqs": [
+            {
+                "answertype": "one",
+                "defaultanswer": "Guest requests",
+                "faq": " Do you take requests from guests?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            }
+        ],
+        "features": [
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Religious event"
+                ],
+                "featurename": "Events covered",
+                "featurequestions": "What kind of events do you cover?",
+                "options": [
+                    "Wedding",
+                    "Concert",
+                    "Anniversary",
+                    "Birthday",
+                    "College event",
+                    "Religious event"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "EDM"
+                ],
+                "featurename": "Genre expertise",
+                "featurequestions": "What music genre do you play?",
+                "options": [
+                    "Bollywood",
+                    "Pop",
+                    "Punjabi",
+                    "Hip hop",
+                    "EDM"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": [
+                    "More than 10 years"
+                ],
+                "featurename": "Experience",
+                "featurequestions": "How much experience do you have as a DJ?",
+                "options": [
+                    "0-2 years",
+                    "2-5 years",
+                    "5-10 years",
+                    "More than 10 years"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            }
+        ],
+        "filters": "",
+        "largeImage": "https://www.eventswedo.com/img/123.jpg",
+        "policies": [
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Booking policy",
+                "policyquestion": "What are your booking policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Cancellation policy",
+                "policyquestion": "What are your cancellation policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Terms & conditions",
+                "policyquestion": "What are your terms and conditions?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Deliverables",
+                "policyquestion": "What all is covered in the price?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Equipment",
+                "policyquestion": "What is the equipment you will bring?",
+                "status": "1"
+            }
+        ],
+        "seoinfo": {
+            "Description": "Top DJ in ##city##, Music is an essential part of weddings, Choose and hire best quality DJ Music System in ##city## at the best prices from Events Wedo",
+            "Detail1": "",
+            "Detail2": "",
+            "Keywords": "",
+            "Title": "Top DJ in ##city## , DJ Music Service Providers in ##city##"
+        },
+        "status": 1,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/9/photos/cover/mGBB6U9omf0XLYgXTx3VMYeca47I7FzB.jpg",
+        "updatedby": 48,
+        "updatedon": "2020-12-04 12:17:12",
+        "vcategoryid": 9,
+        "vcategoryname": "D.J and entertainers",
+        "viewcount": 17501,
+        "vslug": "dj-music"
+    },
+    {
+        "addedby": 47,
+        "addon": "0000-00-00 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": null,
+        "extrainfo": {
+            "Description": "Buy lehenga, gowns, suits, sarees, and designer clothing from top bridalwear stores & couture brands in India. Eventswedo brings top wedding attire sellers online for wedding and event shopping.",
+            "Detail1": "Do you know what excites an Indian bride the most? It\u2019s bridal shopping! Because finding the perfect bridal wear stores& designers inDelhi, Mumbai, Chandigarh, Kolkata, Pune, Bangalore, Chennai, Hyderabad, Noida, and other major Indian cities is difficult,Eventswedobrings you the list of top bridal wear sellers! Our rated bridal wear stores specialize in all types of marriage dresses, footwear, and accessories to-be brides and grooms. From designer lehenga to Patiala Shahijutti, these top bridal wear shops provide a huge variety of clothing for weddings and related events. ",
+            "Detail2": "From Kashmir to Kanyakumari and Bhubaneswar to Dwarka, we have managed to bring the top wears vendors of India on Eventswedo. Have a look at their prices,browse their work, and visit the ones that are closest to you! Email at info@eventswedo.com for recommendations. ",
+            "Keywords": "wedding clothing sellers india, bridalwear near me, buy bridal attire, rent bridal dresses, best wedding clothing store",
+            "Title": "Bridalwear Sellers & Stores India | Wedding Clothing & Attire "
+        },
+        "faqs": [
+            {
+                "answertype": "one",
+                "defaultanswer": "Experience",
+                "faq": "How long have you been active in businesss?",
+                "options": [
+                    "0-2 years",
+                    "2-5 years",
+                    "5-10 years",
+                    "More than 10 years "
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "Renting",
+                "faq": "Do you offer bridal dress renting?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Do you provide any early bird discount on advanced bookings?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Your charges are GST inclusive?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            }
+        ],
+        "features": [
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "ready made outfits"
+                ],
+                "featurename": "Outfit type",
+                "featurequestions": "What are the types of outfits that you provide?",
+                "options": [
+                    "Custom designed outfits",
+                    "Ready made outfits",
+                    "rental outfits",
+                    "All type"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Indo westerns "
+                ],
+                "featurename": "Outfit expertise",
+                "featurequestions": "What are your specializations?",
+                "options": [
+                    "Anarkali suits",
+                    "Salwar suits",
+                    "Wedding lehenga",
+                    "Lehenga skirts",
+                    "Saree",
+                    "Gowns",
+                    "Indo westerns "
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": [
+                    "Retail shop."
+                ],
+                "featurename": "Store type",
+                "featurequestions": "What kind of store do you have?",
+                "options": [
+                    "Couture brand",
+                    "Multi brand store",
+                    "Retail shop."
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            }
+        ],
+        "filters": [
+            {
+                "filtername": "Establishment Year",
+                "filteroptions": [
+                    "2018-2019",
+                    "2014-2018",
+                    "2010-2014",
+                    "2000-2010"
+                ],
+                "filterquestions": "When did you started your business?",
+                "status": "1"
+            },
+            {
+                "filtername": "Outfit Types",
+                "filteroptions": [
+                    "Custom designed outfits from scratch",
+                    "Ready to purchase outfits",
+                    "Sample pieces on which orders can be placed"
+                ],
+                "filterquestions": "What kind of outfits you provide?",
+                "status": "1"
+            },
+            {
+                "filtername": "Store Types",
+                "filteroptions": [
+                    "Studio",
+                    "Boutique"
+                ],
+                "filterquestions": "What is your store type?",
+                "status": "1"
+            },
+            {
+                "filtername": "Starting Price",
+                "filteroptions": [
+                    "1000 Rs",
+                    "5000 Rs",
+                    "15000 Rs"
+                ],
+                "filterquestions": "What is your starting price?",
+                "status": "1"
+            },
+            {
+                "filtername": "City",
+                "filteroptions": [
+                    "Delhi",
+                    "Mumbai",
+                    "Pune"
+                ],
+                "filterquestions": "Which city do you provide services?",
+                "status": "1"
+            }
+        ],
+        "largeImage": "https://d3yc0vf2cv0zf.cloudfront.net/categories/12/photos/cover/GkmQ5glbGZHcxyyU2d46g81GTUuMt8xW.jpg",
+        "policies": [
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Booking policy",
+                "policyquestion": "What is your booking policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Cancellation policy",
+                "policyquestion": "What is your cancellation policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Terms and conditions",
+                "policyquestion": "What are your terms and conditions?",
+                "status": "1"
+            }
+        ],
+        "seoinfo": {
+            "Description": "Choose the top wedding wear boutique or stores in ##city## who offer a wide range of clothes like wedding lehenga, wedding gowns for wedding bridal in ##city## at the best prices.",
+            "Detail1": "",
+            "Detail2": "",
+            "Keywords": "",
+            "Title": "Brider Wear Store in ##city##, Bridal Clothes for Wedding in ##city##"
+        },
+        "status": 1,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/12/photos/cover/XPKMNEeaLhsqzpVvzoMajPbNIlgrGAbb.jpg",
+        "updatedby": 58,
+        "updatedon": "2020-12-04 12:35:32",
+        "vcategoryid": 12,
+        "vcategoryname": "Bridal-wear stores",
+        "viewcount": 17523,
+        "vslug": "bridal-wears"
+    },
+    {
+        "addedby": 47,
+        "addon": "0000-00-00 00:00:00",
+        "basic_info": [
+            {
+                "basic_infoanswer": "",
+                "basic_infoname": "Starting Price",
+                "basic_infoquestion": "What is the starting price of a special cake?",
+                "status": 1
+            }
+        ],
+        "enquiry_questions": null,
+        "extrainfo": {
+            "Description": "Top event & wedding cake vendors near you to order fresh, simple, rustic, desi or custom wedding cakes. Find best wedding cake shops, suppliers, and finest bakers in India on EventsWedo & get huge discounts!",
+            "Detail1": "Be it your child\u2019s first birthday party or your parents\u2019 25th wedding anniversary, both of them will be incomplete without a cake! That\u2019s why Eventswedobrings the best cake bakers and designers of Delhi NCR, Mumbai, Chandigarh, Kolkata, Pune, Bangalore, Chennai, Hyderabad, Noida, and other major Indian cities. Our verified vendors use the best materials for baking the cake and offer amazing price for wedding as well as event delights.  ",
+            "Detail2": "Apart from delicious cakes,most Indian vendors provide tarts, pastries, and cookieson special orders. Whether you need an eggless cake for your wedding or something truly unique in terms of design, our vendors can deliver it all! Have a look at vendors\u2019 portfolio, check out prices and book them in advance for delivering bakery delights for your event!",
+            "Keywords": "cake makers in india, cake makers in delhi, cake vendors of india, best cake vendors India, order wedding cake",
+            "Title": "Best Wedding Cake Shops India | Order Stylish & Rustic Event Cakes"
+        },
+        "faqs": [
+            {
+                "answertype": "many",
+                "defaultanswer": "birthday",
+                "faq": "For what type of events do you cover?",
+                "options": [
+                    "wedding",
+                    "birthday",
+                    "event",
+                    "corporate party"
+                ],
+                "selectionoptions": "many",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "more than 10 years",
+                "faq": "How long have you been active as cake artist?",
+                "options": [
+                    "0-2 years",
+                    "2-5 years",
+                    "5-10 years",
+                    "More than 10 years "
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Do you offer tasting sessions at you place?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Do you provide any early bird discount on advanced bookings?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "Yes",
+                "faq": "Your charges are GST inclusive?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Do you provide cake stands? ",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Do you provide other bakery items?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            }
+        ],
+        "features": [
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Festive cakes"
+                ],
+                "featurename": "Cake expertise",
+                "featurequestions": "what kind of cakes do you specialize in?",
+                "options": [
+                    "Wedding cakes",
+                    "Themed cakes",
+                    "Cake toppers",
+                    "Cake jars",
+                    "Fondant cakes",
+                    "Custom cakes",
+                    "Birthday cakes",
+                    "Festive cakes"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": [
+                    "Both"
+                ],
+                "featurename": "Cake type",
+                "featurequestions": "Do you work with fondont or buttercream?",
+                "options": [
+                    "Fondant",
+                    "Buttercream",
+                    "Both"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": [
+                    "above 10000"
+                ],
+                "featurename": "Cake price",
+                "featurequestions": "How are your cake priced?",
+                "options": [
+                    "Below 1000",
+                    "1000-5000",
+                    "5000-10000",
+                    "above 10000"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "vanilla"
+                ],
+                "featurename": "cake flavors",
+                "featurequestions": "What cake flavors can you make?",
+                "options": [
+                    "choclate",
+                    "dutch truffle",
+                    "mango",
+                    "nutella",
+                    "hazelnut",
+                    "carrot",
+                    "lemon",
+                    "pineapple",
+                    "vanilla"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            }
+        ],
+        "filters": "",
+        "largeImage": "https://www.eventswedo.com/img/cake.jpg",
+        "policies": [
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Booking policy",
+                "policyquestion": "What is your booking policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Cancellation policy",
+                "policyquestion": "What is your cancellation policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Delivery",
+                "policyquestion": "What is your delivery policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Terms and conditions",
+                "policyquestion": "What are your terms and conditions",
+                "status": "1"
+            }
+        ],
+        "seoinfo": {
+            "Description": "Find premium and budget Wedding Invitation Card Designers and Printers in ##city##. Our designers offer a wide range of customized Indian wedding and event invitation card in the best price\r\n",
+            "Detail1": "",
+            "Detail2": "",
+            "Keywords": "",
+            "Title": "Order Online Cake in ##city##, Online Cake Supplier in ##city##"
+        },
+        "status": 1,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/13/photos/cover/GAKidW2STLFU49FUFDH9P3UYdKCjYJH8.jpg",
+        "updatedby": 48,
+        "updatedon": "2020-12-01 17:02:37",
+        "vcategoryid": 13,
+        "vcategoryname": "Cake suppliers",
+        "viewcount": 8309,
+        "vslug": "online-cakes-supplier"
+    },
+    {
+        "addedby": 47,
+        "addon": "0000-00-00 00:00:00",
+        "basic_info": [
+            {
+                "basic_infoanswer": "",
+                "basic_infoname": "Starting Price",
+                "basic_infoquestion": "What is the starting price of a special cake?",
+                "status": 1
+            }
+        ],
+        "enquiry_questions": [
+            {
+                "answertype": "one",
+                "enquiryquestion": "What is the quantity you require?",
+                "options": [
+                    "<50",
+                    "50 - 100",
+                    "100 - 200",
+                    "200 - 400",
+                    "Design cost only",
+                    "On request"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "enquiryquestion": "What kind of specialty you need?",
+                "options": [
+                    "Boxed invites",
+                    "Unboxed invites",
+                    "Digital E-cards",
+                    "Only Card designing"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            }
+        ],
+        "extrainfo": {
+            "Description": "",
+            "Detail1": "Invitations \u2013 be it for wedding or event - set the tone for guests and notify them about the event highlights. That\u2019s why we bring the best wedding and event invitation designers in Delhi NCR, Mumbai, Chandigarh, Kolkata, Pune, Bangalore, Chennai, Hyderabad, Noida, Indore, Telangana, and other major Indian cities! Be it a simple wedding card with the Ganpati logo or a modern embroidered box invitation, our invitation designers will make sure to put happiness on the face of your guests.",
+            "Detail2": "Whether you need 100invitation cards or thousands, invitation card designers from Eventswedodeliver quality designs for each of their projects. Our wedding & corporate invitation card designers endeavor their best to deliver groundbreaking designs. Have a look at vendors\u2019 portfolios, explore packages, and check reviews to hire the best in India.",
+            "Keywords": "",
+            "Title": ""
+        },
+        "faqs": [
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Do you provide any early bird discount on advanced bookings?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "Yes",
+                "faq": "Your charges are GST inclusive?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            }
+        ],
+        "features": [
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Festive cakes"
+                ],
+                "featurename": "Cake expertise",
+                "featurequestions": "what kind of cakes do you specialize in?",
+                "options": [
+                    "Wedding cakes",
+                    "Themed cakes",
+                    "Cake toppers",
+                    "Cake jars",
+                    "Fondant cakes",
+                    "Custom cakes",
+                    "Birthday cakes",
+                    "Festive cakes"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": [
+                    "Both"
+                ],
+                "featurename": "Cake type",
+                "featurequestions": "Do you work with fondont or buttercream?",
+                "options": [
+                    "Fondant",
+                    "Buttercream",
+                    "Both"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": [
+                    "above 10000"
+                ],
+                "featurename": "Cake price",
+                "featurequestions": "How are your cake priced?",
+                "options": [
+                    "Below 1000",
+                    "1000-5000",
+                    "5000-10000",
+                    "above 10000"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "vanilla"
+                ],
+                "featurename": "cake flavors",
+                "featurequestions": "What cake flavors can you make?",
+                "options": [
+                    "choclate",
+                    "dutch truffle",
+                    "mango",
+                    "nutella",
+                    "hazelnut",
+                    "carrot",
+                    "lemon",
+                    "pineapple",
+                    "vanilla"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            }
+        ],
+        "filters": "",
+        "largeImage": "https://www.eventswedo.com/img/cat/Card.jpg",
+        "policies": [
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Booking policy",
+                "policyquestion": "What is your booking policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Cancellation policy",
+                "policyquestion": "What is your cancellation policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Delivery",
+                "policyquestion": "What is your delivery policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Terms and conditions",
+                "policyquestion": "What are your terms and conditions",
+                "status": "1"
+            }
+        ],
+        "seoinfo": {
+            "Description": "Find premium and budget Wedding Invitation Card Designers and Printers in ##city##. Our designers offer a wide range of customized Indian wedding and event invitation card in the best price.",
+            "Detail1": "",
+            "Detail2": "",
+            "Keywords": "",
+            "Title": "Invitation Card Printing in ##city##, Card Designer in ##city##"
+        },
+        "status": 1,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/22/photos/cyzfrcifxjpjhdfi.jpg",
+        "updatedby": 48,
+        "updatedon": "2020-12-19 03:03:38",
+        "vcategoryid": 22,
+        "vcategoryname": "Invitations",
+        "viewcount": 7446,
+        "vslug": "invitation-cards-designer"
+    },
+    {
+        "addedby": 47,
+        "addon": "2019-04-02 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": [
+            {
+                "answertype": "multiple",
+                "enquiryquestion": "Event Type",
+                "options": [
+                    "Birthday",
+                    "Sangeet",
+                    "Wedding",
+                    "Ring ceremony",
+                    "Anniversary",
+                    "Other"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "enquiryquestion": "How many performances",
+                "options": [
+                    "1-3",
+                    "3-5",
+                    "5-8",
+                    "8>"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "enquiryquestion": "No of dancers ",
+                "options": [
+                    "1-5",
+                    "5-10",
+                    "10-20",
+                    "20+"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "enquiryquestion": "dance styles",
+                "options": [
+                    "punjabis",
+                    "bolywood style",
+                    "salsa ",
+                    "classical",
+                    "folk dances"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            }
+        ],
+        "extrainfo": {
+            "Description": "Hire choreographers & dance experts for wedding performance and corporate events. India\u2019s top rated choreographers & dancers on hire at best price on Eventswedo. Get best discounts from top dance and entertainment experts. ",
+            "Detail1": "Your wedding day is coming close and you are worried because the dance performance is still a mess. Don\u2019t worry,Eventswedobrings top choreographers of India to help you master the dance performance. From salsa to bhangra, our vetted Indian choreographers from Delhi NCR, Mumbai, Chandigarh, Kolkata, Pune, Bangalore, Chennai, Hyderabad, Noida, Indore, Telangana, and other major Indian citieswill make sure that your performance is a winner. ",
+            "Detail2": "Our Indian dance choreographers are available for weddings, lady sangeets, pre-wedding ceremonies, anniversaries, birthday parties, corporate events, and music events. Be it classical, Bollywood, western, couple, Latin or folk, our dance experts can deliver it all.Check out their portfolio and contact them to get an appointment! Email at info@eventswedo.com to request recommendations. ",
+            "Keywords": "choreographers in india, dance choreographers for weddings, wedding choreographers in india, business event choreographers, dance performance for wedding, dance performance teachers ",
+            "Title": "Hire Choreographers for Weddings & Events in India| Dance Teachers"
+        },
+        "faqs": [
+            {
+                "answertype": "one",
+                "defaultanswer": "0-2 years",
+                "faq": "How much experience do you have as a choreographer?",
+                "options": [
+                    "0-2 years",
+                    "2-5 years",
+                    "5-10 years",
+                    "More than 10 years "
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Do you provide any early bird discount on advanced bookings?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "Yes",
+                "faq": "Your charges are GST inclusive?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Do we have to provide accommodation?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            }
+        ],
+        "features": [
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Salsa"
+                ],
+                "featurename": "Specialization",
+                "featurequestions": "What types of dances do you specialize in?",
+                "options": [
+                    "Contemporary ",
+                    "Free style",
+                    "Hip hop",
+                    "Classic Indian",
+                    "Punjabi",
+                    "Regional Dances",
+                    "Jazz",
+                    "Salsa"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "weddings"
+                ],
+                "featurename": "Events covered",
+                "featurequestions": "What types of events do you cover?",
+                "options": [
+                    "Sangeets",
+                    "Mundan",
+                    "Sindhara",
+                    "Godbharaai",
+                    "Anniversaries",
+                    "Weddings",
+                    "All event types"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            }
+        ],
+        "filters": "",
+        "largeImage": "https://www.eventswedo.com/img/cat/Choreographer-.jpg",
+        "policies": [
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Booking policy",
+                "policyquestion": "What is your booking policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Cancellation policy",
+                "policyquestion": "What is your cancellation policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Terms and conditions",
+                "policyquestion": "What are you terms and conditions?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Travel policy",
+                "policyquestion": "What are your travel policy?",
+                "status": "1"
+            }
+        ],
+        "seoinfo": {
+            "Description": "",
+            "Detail1": "",
+            "Detail2": "",
+            "Keywords": "",
+            "Title": ""
+        },
+        "status": 1,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/23/photos/mmzipjuzolesdebd.jpg",
+        "updatedby": 48,
+        "updatedon": "2020-07-25 11:43:40",
+        "vcategoryid": 23,
+        "vcategoryname": "Choreographers",
+        "viewcount": 9767,
+        "vslug": "choreographers"
+    },
+    {
+        "addedby": 47,
+        "addon": "2019-04-10 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": null,
+        "extrainfo": {
+            "Description": "",
+            "Detail1": "",
+            "Detail2": "",
+            "Keywords": "",
+            "Title": ""
+        },
+        "faqs": "",
+        "features": [
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "test"
+                ],
+                "featurename": "Test",
+                "featurequestions": "Test",
+                "options": [
+                    "test"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            }
+        ],
+        "filters": "",
+        "largeImage": "https://d3yc0vf2cv0zf.cloudfront.net/categories/26/photos/wpsgbsjutrzibqou.jpg",
+        "policies": "",
+        "seoinfo": {
+            "Description": "",
+            "Detail1": "",
+            "Detail2": "",
+            "Keywords": "",
+            "Title": ""
+        },
+        "status": 0,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/26/photos/wpsgbsjutrzibqou.jpg",
+        "updatedby": 49,
+        "updatedon": "2020-10-03 11:25:59",
+        "vcategoryid": 26,
+        "vcategoryname": "Tent House",
+        "viewcount": 11,
+        "vslug": "tent-house"
+    },
+    {
+        "addedby": 47,
+        "addon": "2019-04-10 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": [
+            {
+                "answertype": "one",
+                "enquiryquestion": "What kind of services do you require?",
+                "options": [
+                    "Consultancy",
+                    "Coordination",
+                    "Full Planning",
+                    "Partial Planning",
+                    "Other"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "enquiryquestion": "What is your estimated decor budget?",
+                "options": [
+                    "Standard (Less than 1L)",
+                    "Premium (1L - 5L)",
+                    "Elite (5L & above)",
+                    "Not sure"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "enquiryquestion": "What describes your selected venue the best?",
+                "options": [
+                    "Banquet Hall",
+                    "Resort",
+                    "Farm House",
+                    "Hotel",
+                    "4 Star & above",
+                    "Other"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "enquiryquestion": "For which place you want the decor?",
+                "options": [
+                    "Indoor",
+                    "Outdoor",
+                    "Both"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "enquiryquestion": "Is the function during day time or night?",
+                "options": [
+                    "Daytime",
+                    "Night time",
+                    "Both"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            }
+        ],
+        "extrainfo": {
+            "Description": "Book best wedding decorators in India online. Discover budget Indian wedding flower decorators & get best event decoration deals on EventsWedo. Cheapest prices & packages guaranteed at top event vendor search platform of India.",
+            "Detail1": "D\u00e9cor sets the mood and ambiance for any event. Eventswedobrings best Indian decorators from Delhi NCR, Mumbai, Chandigarh, Kolkata, Pune, Bangalore, Chennai, Hyderabad, Noida, Indore, Telangana, and other major Indian cities to make any venue look just the way you want. Whether it\u2019s decorating a corporate venue or beautifying wedding mandap, these decorators from India can take care of it all. ",
+            "Detail2": "Hire the best Indian decorators for your event in your budget. Check decorators from all over India, read customer reviews, and explore packages to pick the one that best fits your vision. Email us at info@eventswedo.com to get recommendations from our team of local decoration experts.",
+            "Keywords": "hire decorators for wedding, top decorators near me, best decorators of india, hire event decorators, hire wedding decorator, budget decoration services",
+            "Title": "Best Wedding & Event Decorators |Budget Wedding Decorations India "
+        },
+        "faqs": [
+            {
+                "answertype": "one",
+                "defaultanswer": "5-10 years",
+                "faq": "How long have you been in the design business?",
+                "options": [
+                    "More than 10 years "
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "Yes",
+                "faq": "Your charges are GST inclusive?",
+                "options": [
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "5 to 10",
+                "faq": "What is the size of your team?",
+                "options": [
+                    "More than 10"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Do you provide any early bird discount on advanced bookings?",
+                "options": [
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            }
+        ],
+        "features": [
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Other events"
+                ],
+                "featurename": "Event types",
+                "featurequestions": "What types of events do you cover?",
+                "options": [
+                    "Wedding",
+                    "Birthday",
+                    "Anniversary",
+                    "Corporate event",
+                    "College event",
+                    "Parties",
+                    "Ring ceremony",
+                    "Other events"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Outdoor decoration"
+                ],
+                "featurename": "Decor expertise",
+                "featurequestions": "What are the types of decorations that you specialize in?",
+                "options": [
+                    "Floral installations",
+                    "Lighting",
+                    "Furniture",
+                    "Linen decor",
+                    "Flowers decoration",
+                    "event stationery",
+                    "Venue decoration",
+                    "Stage decoration",
+                    "Indoor decoration",
+                    "Outdoor decoration"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Cloth based"
+                ],
+                "featurename": "Decor styles",
+                "featurequestions": "What are your favorite decoration styles?",
+                "options": [
+                    "Classic",
+                    "Modern",
+                    "Flower based",
+                    "Both classic & modern",
+                    "Cloth based"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            }
+        ],
+        "filters": "",
+        "largeImage": "https://d3yc0vf2cv0zf.cloudfront.net/categories/27/photos/pvsbehmdtbidqmgb.jpg",
+        "policies": [
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Booking policy",
+                "policyquestion": "What is your booking policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Cancellation policy",
+                "policyquestion": "What is your cancellation policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Terms and conditions",
+                "policyquestion": "What are your terms and conditions?",
+                "status": "1"
+            }
+        ],
+        "seoinfo": {
+            "Description": "",
+            "Detail1": "",
+            "Detail2": "",
+            "Keywords": "",
+            "Title": ""
+        },
+        "status": 1,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/27/photos/cover/EsGjsQtDY3pxHYFnI0V9ZEBAfUmJpfCc.jpg",
+        "updatedby": 48,
+        "updatedon": "2020-12-19 02:50:02",
+        "vcategoryid": 27,
+        "vcategoryname": "Planning & Decor",
+        "viewcount": 8649,
+        "vslug": "decorations"
+    },
+    {
+        "addedby": 47,
+        "addon": "2019-04-10 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": null,
+        "extrainfo": "",
+        "faqs": "",
+        "features": "",
+        "filters": "",
+        "largeImage": "https://d3yc0vf2cv0zf.cloudfront.net/categories/28/photos/pattrrxunvbcvqod.jpg",
+        "policies": "",
+        "seoinfo": null,
+        "status": 0,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/28/photos/pattrrxunvbcvqod.jpg",
+        "updatedby": 47,
+        "updatedon": "2019-05-14 00:00:00",
+        "vcategoryid": 28,
+        "vcategoryname": "Entertainment",
+        "viewcount": 9,
+        "vslug": "entertainment"
+    },
+    {
+        "addedby": 47,
+        "addon": "2019-04-10 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": null,
+        "extrainfo": "",
+        "faqs": "",
+        "features": "",
+        "filters": "",
+        "largeImage": "https://d3yc0vf2cv0zf.cloudfront.net/categories/29/photos/khlpnaiyjodxotuz.jpg",
+        "policies": "",
+        "seoinfo": null,
+        "status": 0,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/29/photos/khlpnaiyjodxotuz.jpg",
+        "updatedby": 47,
+        "updatedon": "2019-05-14 00:00:00",
+        "vcategoryid": 29,
+        "vcategoryname": "Flower decoration",
+        "viewcount": 6,
+        "vslug": "flower-decoration"
+    },
+    {
+        "addedby": 47,
+        "addon": "2019-04-10 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": null,
+        "extrainfo": "",
+        "faqs": "",
+        "features": "",
+        "filters": "",
+        "largeImage": "https://d3yc0vf2cv0zf.cloudfront.net/categories/30/photos/mvchljxnxdzgwgmd.jpg",
+        "policies": "",
+        "seoinfo": null,
+        "status": 0,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/30/photos/mvchljxnxdzgwgmd.jpg",
+        "updatedby": 47,
+        "updatedon": "2019-05-14 00:00:00",
+        "vcategoryid": 30,
+        "vcategoryname": "Gifting Solutions",
+        "viewcount": 2,
+        "vslug": "gifting-solutions"
+    },
+    {
+        "addedby": 47,
+        "addon": "2019-04-10 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": [
+            {
+                "answertype": "text",
+                "enquiryquestion": "What is your event date?",
+                "options": [
+                    ""
+                ],
+                "selectionoptions": "text",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "enquiryquestion": "For whom you want the mehndi?",
+                "options": [
+                    "Bride",
+                    "Close family members",
+                    "Guests",
+                    "All"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            }
+        ],
+        "extrainfo": {
+            "Description": "Book best mehndi designer and artists in India for Bride Wedding, Baby shower function, Karva Chauth, Parties Events with Eventswedo at an affordable price. Hire Mehndi Artists now.",
+            "Detail1": "A bride's look is incomplete if there is no henna on her hand. That\u2019s why Eventswedobrings best Mehendi designers of Delhi NCR, Mumbai, Chandigarh, Kolkata, Pune, Bangalore, Chennai, Hyderabad, Noida, Indore, Telangana, and other major Indian cities known for crafting beautiful henna designs. These Indian mehndi designers have decorated the hands of dulhansall over India, wishing them good health and prosperity as they start a new journey.",
+            "Detail2": "Our top mehndi designers offer henna application on hands, feet, arms and legs. Apart from covering weddings, these designers are also famous for offering services on Indian ceremonies likeKarvaChauth, anniversaries, and other special occasions. Select the one according to your budget and make sure to have a look at their portfolio. Gather their contact information to book them for your special occasion!",
+            "Keywords": "mehendi artists for weddings, mehendi artists near me, mehendi wallas in India, henna experts in India, mehendi artist packages, mehendi for marriage",
+            "Title": "Best Mehndi Artist in India, Mehndi Designers for Wedding and Events in India"
+        },
+        "faqs": [
+            {
+                "answertype": "one",
+                "defaultanswer": "Yes",
+                "faq": "Do you need any special seating arrangements or lighting to apply the bridal mehandi?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "2-5 years",
+                "faq": "How long have you been in the mehandi business?",
+                "options": [
+                    "0-2 years",
+                    "2-5 years",
+                    "5-10 years",
+                    "More than 10 years "
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "many",
+                "defaultanswer": "yes",
+                "faq": "Do you use natural henna?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "many",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Your charges are GST inclusive?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "3 to 5",
+                "faq": "What is the size of your team?",
+                "options": [
+                    "1 to 3",
+                    "3 to 5",
+                    "More than 5"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            }
+        ],
+        "features": [
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Designer Mehendi"
+                ],
+                "featurename": "Design on offer",
+                "featurequestions": "What are the types of mehandi designs that you offer?",
+                "options": [
+                    "Moroccan Mehndi Design",
+                    "Bangle Style Mehndi Design",
+                    "Traditional Mehndi",
+                    "Bridal Mehndi",
+                    "Arabic Mehndi",
+                    "Zardosi Mehndi",
+                    "Caricature Mehndi",
+                    "Lotus motif Mehndi"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            }
+        ],
+        "filters": "",
+        "largeImage": "https://d3yc0vf2cv0zf.cloudfront.net/categories/32/photos/sylyyallbxcdzavu.jpg",
+        "policies": [
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Booking policy",
+                "policyquestion": " What is your booking policy ? ",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Cancellation policy",
+                "policyquestion": "What is your cancellation policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Terms and conditions",
+                "policyquestion": "What are you terms and conditions?",
+                "status": "1"
+            }
+        ],
+        "seoinfo": {
+            "Description": "Explore thousands of elegant Mehendi and Artist Designers in ##city## at Reasaonable prices, Hire top Mehendi Artist and Designer from EventsWedo ",
+            "Detail1": "",
+            "Detail2": "",
+            "Keywords": "mehendi artists for weddings, mehendi artists near me, mehendi wallas in ##city##, henna experts in ##city##, mehendi artist packages, mehendi for marriage",
+            "Title": "Best Mehndi Artist in ##city##, Mehndi Designers for Wedding and Events in ##city##"
+        },
+        "status": 1,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/32/photos/sylyyallbxcdzavu.jpg",
+        "updatedby": 48,
+        "updatedon": "2020-12-19 02:56:38",
+        "vcategoryid": 32,
+        "vcategoryname": "Mehendi ",
+        "viewcount": 9574,
+        "vslug": "mehendi-artists"
+    },
+    {
+        "addedby": 47,
+        "addon": "2019-04-10 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": null,
+        "extrainfo": "",
+        "faqs": "",
+        "features": "",
+        "filters": "",
+        "largeImage": "https://d3yc0vf2cv0zf.cloudfront.net/categories/33/photos/ilhertezdmdflbgw.jpg",
+        "policies": "",
+        "seoinfo": null,
+        "status": 0,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/33/photos/ilhertezdmdflbgw.jpg",
+        "updatedby": 47,
+        "updatedon": "2019-05-14 00:00:00",
+        "vcategoryid": 33,
+        "vcategoryname": "Pundits/ Priests",
+        "viewcount": 3,
+        "vslug": "pundits-priests"
+    },
+    {
+        "addedby": 47,
+        "addon": "2019-04-10 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": null,
+        "extrainfo": "",
+        "faqs": "",
+        "features": "",
+        "filters": "",
+        "largeImage": "https://d3yc0vf2cv0zf.cloudfront.net/categories/34/photos/vkmzvficztzwahoh.jpg",
+        "policies": "",
+        "seoinfo": null,
+        "status": 0,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/34/photos/vkmzvficztzwahoh.jpg",
+        "updatedby": 47,
+        "updatedon": "2019-05-14 00:00:00",
+        "vcategoryid": 34,
+        "vcategoryname": "Transportation",
+        "viewcount": 7,
+        "vslug": "transportation"
+    },
+    {
+        "addedby": 47,
+        "addon": "2019-04-10 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": null,
+        "extrainfo": "",
+        "faqs": "",
+        "features": "",
+        "filters": "",
+        "largeImage": "https://d3yc0vf2cv0zf.cloudfront.net/categories/35/photos/kmqnjhxkddnfpdid.jpg",
+        "policies": "",
+        "seoinfo": null,
+        "status": 0,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/35/photos/kmqnjhxkddnfpdid.jpg",
+        "updatedby": 47,
+        "updatedon": "2019-05-14 00:00:00",
+        "vcategoryid": 35,
+        "vcategoryname": "Wedding bands",
+        "viewcount": 2,
+        "vslug": "wedding-bands"
+    },
+    {
+        "addedby": 47,
+        "addon": "2019-04-10 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": [
+            {
+                "answertype": "one",
+                "enquiryquestion": "Event Planning Type ",
+                "options": [
+                    "Full Planning",
+                    "Consulting",
+                    "Coordination",
+                    "Partial Planning"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "enquiryquestion": "Event Type",
+                "options": [
+                    "Wedding",
+                    "Corporate Party",
+                    "College Fest",
+                    "Bachelor Party",
+                    "Destination Wedding",
+                    "Anniversary ",
+                    "Birthday Party",
+                    "Ring Ceremony"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "enquiryquestion": "Max Expected Guest Count",
+                "options": [
+                    "<50",
+                    "50-100",
+                    "100-300",
+                    "300-500",
+                    ">500"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "enquiryquestion": "No Of Event Days",
+                "options": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "enquiryquestion": "Number of Rooms",
+                "options": [
+                    "1-5",
+                    "5-10",
+                    "10-15",
+                    "15-20",
+                    "20-30",
+                    ">30"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "enquiryquestion": "Meal Type",
+                "options": [
+                    "Breakfast",
+                    "Lunch",
+                    "Snacks",
+                    "Dinner"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "enquiryquestion": "Do you need hard drinks?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            }
+        ],
+        "extrainfo": {
+            "Description": "Eventswedo brings the best event planners in India for weddings or corporate events. Discover, compare, and hire top-rated event management companies in India at best discounts. The lowest price guaranteed!",
+            "Detail1": "An event planner takes away all the burdens and troubles that come with planning an event. That\u2019s why Eventswedobrings top event planners of Delhi NCR, Mumbai, Chandigarh, Kolkata, Pune, Bangalore, Chennai, Hyderabad, Noida, Indore, Telangana, and other major Indian cities. With their vast years of experience, our top-rated Indian event planners can take care of weddings, corporate meetings, pre-wedding ceremonies, anniversaries, music concerts and birthday bashes.",
+            "Detail2": "Event planners act as event managers and coordinates with all the vendors so that clients can enjoy the event. Be it a small family celebration or massive corporate event, our certified event planners can take care of it all. Browse the list of top Indian vendors from Eventswedo,check their portfolio and connect to get best packages.",
+            "Keywords": "event planners of india, wedding planners india, top wedding planners, best event planners, event consultants near me, hire event planners, hire wedding planners",
+            "Title": "Best Event Planners in India, Corporate Event Management Company India"
+        },
+        "faqs": [
+            {
+                "answertype": "one",
+                "defaultanswer": "More than 10 years",
+                "faq": "How many years have you been working as an event planner",
+                "options": [
+                    "0-2 years",
+                    "2-5 years",
+                    "5-10 years",
+                    "More than 10 years"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "We will pay",
+                "faq": "Who pays for the travel done to reach the event destination?",
+                "options": [
+                    "We will pay",
+                    "Client will pay"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Your charges are GST inclusive?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Do you provide any early bird discount on advanced bookings?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "3 to 5 ",
+                "faq": "What is the size of your team?",
+                "options": [
+                    "1 to 3",
+                    "3 to 5 ",
+                    "More than 5"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            }
+        ],
+        "features": [
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Party"
+                ],
+                "featurename": "Events covered",
+                "featurequestions": "What kind of events do you cover?",
+                "options": [
+                    "Wedding",
+                    "Birthday",
+                    "Anniversary",
+                    "Corporate event",
+                    "College event",
+                    "Party",
+                    "Ring ceremony",
+                    "Business event",
+                    "Themed Parties",
+                    "Baby Showers",
+                    "House Warming",
+                    "Cruise Parties",
+                    "Pre Wedding Celeberations",
+                    "Naming Ceremonies"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Choosing venues"
+                ],
+                "featurename": "Expertise",
+                "featurequestions": "What types of arrangements you cover during events?",
+                "options": [
+                    "Decorations",
+                    "Arranging Equipments",
+                    "Hiring vendors",
+                    "Choosing venues"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Custom"
+                ],
+                "featurename": "Styles",
+                "featurequestions": "What kind of styles are you expert at?",
+                "options": [
+                    "Traditional",
+                    "Modern",
+                    "Custom"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            }
+        ],
+        "filters": "",
+        "largeImage": "https://d3yc0vf2cv0zf.cloudfront.net/categories/36/photos/lewqbeigzjurntrv.jpeg",
+        "policies": [
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "booking policy",
+                "policyquestion": " What is your booking policy ? ",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "cancellation policy",
+                "policyquestion": "What is your cancellation policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "terms and conditions",
+                "policyquestion": "What are your terms and conditions?",
+                "status": "1"
+            }
+        ],
+        "seoinfo": {
+            "Description": "Eventswedo brings the best event planners in ##city## for weddings or corporate events. Discover, compare, and hire top-rated event management companies in ##city## at best discounts. The lowest price guaranteed!",
+            "Detail1": "An event planner takes away all the burdens and troubles that come with planning an event. That\u2019s why Eventswedobrings top event planners of Delhi NCR, Mumbai, Chandigarh, Kolkata, Pune, Bangalore, Chennai, Hyderabad, Noida, Indore, Telangana, and other major Indian cities. With their vast years of experience, our top-rated Indian event planners can take care of weddings, corporate meetings, pre-wedding ceremonies, anniversaries, music concerts and birthday bashes.",
+            "Detail2": "An event planner takes away all the burdens and troubles that come with planning an event. That\u2019s why Eventswedobrings top event planners of Delhi NCR, Mumbai, Chandigarh, Kolkata, Pune, Bangalore, Chennai, Hyderabad, Noida, Indore, Telangana, and other major Indian cities. With their vast years of experience, our top-rated Indian event planners can take care of weddings, corporate meetings, pre-wedding ceremonies, anniversaries, music concerts and birthday bashes.\r\n\r\nEvent planners act as event managers and coordinates with all the vendors so that clients can enjoy the event. Be it a small family celebration or massive corporate event, our certified event planners can take care of it all. Browse the list of top Indian vendors from Eventswedo,check their portfolio and connect to get best packages.",
+            "Keywords": "event planners of ##city##, event planners of ##city##, wedding planners ##city##, top wedding planners, best event planners, event consultants near me, hire event planners, hire wedding planners",
+            "Title": "Best Event Planners in ##city##, Corporate Event Management Company  ##city##"
+        },
+        "status": 1,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/36/photos/lewqbeigzjurntrv.jpeg",
+        "updatedby": 48,
+        "updatedon": "2020-08-07 11:52:12",
+        "vcategoryid": 36,
+        "vcategoryname": "Event Planners",
+        "viewcount": 9246,
+        "vslug": "event-planners"
+    },
+    {
+        "addedby": 47,
+        "addon": "0000-00-00 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": null,
+        "extrainfo": "",
+        "faqs": "[    {       \"faq\":\"For what type of bridal wears do you offer?\",       \"defaultanswer\":\"All\",       \"options\":[          \"Lehenga\",          \"Gagra Choli\",          \"Odni\"       ],       \"selectionoptions\":\"many\",       \"status\":1    },    {       \"faq\":\"How long have you been active in businesss?\",       \"defaultanswer\":\"2-5 years\",       \"options\":[          \"0-2 years\",          \"2-5 years\",          \"more than 5 years\"       ],       \"selectionoptions\":\"one\",       \"status\":1    },    {       \"faq\":\"Do you offer renting?\",       \"defaultanswer\":\"yes\",       \"options\":[          \"yes\",          \"no\"       ],       \"selectionoptions\":\"one\",       \"status\":1    },    {       \"faq\":\"Do you provide any early bird discount on advanced bookings?\",       \"defaultanswer\":\"yes\",       \"options\":[          \"yes\",          \"no\"       ],       \"selectionoptions\":\"one\",       \"status\":1    },    {       \"faq\":\"Your charges are GST inclusive?\",       \"defaultanswer\":\"yes\",       \"options\":[          \"yes\",          \"no\"       ],       \"selectionoptions\":\"one\",       \"status\":1    } ]",
+        "features": [
+            {
+                "featureanswer": [],
+                "featurename": "Specialization",
+                "featurequestions": "What are your specializations?",
+                "status": 1
+            },
+            {
+                "featureanswer": [],
+                "featurename": "Store Types",
+                "featurequestions": "Please tell us about your store types?",
+                "status": 1
+            }
+        ],
+        "filters": "[\r\n   {\r\n      \"filterquestions\":\"When did you started your business?\",\r\n      \"filtername\":\"Establishment Year\",\r\n      \"filteroptions\":[\r\n         \"2018-2019\",\r\n         \"2014-2018\",\r\n         \"2010-2014\",\r\n         \"2000-2010\"\r\n      ],\r\n      \"status\":1\r\n   },\r\n   {\r\n      \"filterquestions\":\"What kind of outfits you provide?\",\r\n      \"filtername\":\"Outfit Types\",\r\n      \"filteroptions\":[\r\n         \"Custom designed outfits from scratch\",\r\n         \"Ready to purchase outfits\",\r\n         \"Sample pieces on which orders can be placed\"\r\n      ],\r\n      \"status\":1\r\n   },\r\n   {\r\n      \"filterquestions\":\"What is your store type?\",\r\n      \"filtername\":\"Store Types\",\r\n      \"filteroptions\":[\r\n         \"Studio\",\r\n         \"Boutique\"\r\n      ],\r\n      \"status\":1\r\n   },\r\n   {\r\n      \"filterquestions\":\"What is your starting price?\",\r\n      \"filtername\":\"Starting Price\",\r\n      \"filteroptions\":[\r\n         \"1000 Rs\",\r\n         \"5000 Rs\",\r\n         \"15000 Rs\"\r\n      ],\r\n      \"status\":1\r\n   },\r\n   {\r\n      \"filterquestions\":\"Which city do you provide services?\",\r\n      \"filtername\":\"City\",\r\n      \"filteroptions\":[\r\n         \"Delhi\",\r\n         \"Mumbai\",\r\n         \"Pune\"\r\n      ],\r\n      \"status\":1\r\n   }\r\n]",
+        "largeImage": "https://www.eventswedo.com/img/entertainment.jpg",
+        "policies": [
+            {
+                "polciyanswer": "",
+                "polciyname": "Advance",
+                "polciyquestion": "What are your advance booking policies?",
+                "status": 1
+            },
+            {
+                "polciyanswer": "",
+                "polciyname": "Cancellation",
+                "polciyquestion": "What are your cancellation policies?",
+                "status": 1
+            },
+            {
+                "polciyanswer": "",
+                "polciyname": "Travel",
+                "polciyquestion": "What are your travel policies?",
+                "status": 1
+            },
+            {
+                "polciyanswer": "",
+                "polciyname": "Terms",
+                "polciyquestion": "Terms and Conditions?",
+                "status": 1
+            }
+        ],
+        "seoinfo": null,
+        "status": 0,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/37/photos/lobapsaqwdtmhdnv.jpg",
+        "updatedby": 47,
+        "updatedon": "2019-05-14 00:00:00",
+        "vcategoryid": 37,
+        "vcategoryname": "Groom Wears",
+        "viewcount": 8,
+        "vslug": "groom-wears"
+    },
+    {
+        "addedby": 47,
+        "addon": "2019-04-10 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": null,
+        "extrainfo": {
+            "Description": "",
+            "Detail1": "",
+            "Detail2": "",
+            "Keywords": "",
+            "Title": ""
+        },
+        "faqs": "",
+        "features": [
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    ""
+                ],
+                "featurename": "Wedding theme",
+                "featurequestions": "Wedding theme",
+                "options": [
+                    "Fairytale",
+                    "Royal Wedding",
+                    "Lucknowi Wedding",
+                    "Rajasthani Wedding",
+                    "Forest Wedding",
+                    "traditional indian style",
+                    "Indoor Garden Wedding",
+                    "Green Wedding"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            }
+        ],
+        "filters": "",
+        "largeImage": "https://d3yc0vf2cv0zf.cloudfront.net/categories/39/photos/wedding_favors.jpg",
+        "policies": "",
+        "seoinfo": {
+            "Description": "",
+            "Detail1": "",
+            "Detail2": "",
+            "Keywords": "",
+            "Title": ""
+        },
+        "status": 1,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/39/photos/wedding_favors.jpg",
+        "updatedby": 47,
+        "updatedon": "2020-07-19 01:51:43",
+        "vcategoryid": 39,
+        "vcategoryname": "Gifts And Favours",
+        "viewcount": 3894,
+        "vslug": "gifts-and-favors"
+    },
+    {
+        "addedby": 47,
+        "addon": "2019-04-10 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": null,
+        "extrainfo": {
+            "Description": "Discover top jewellers to shop jewellery for wedding & anniversary. Best discount from top jewellery stores & designer brands dealing in gold, silver & antique pieces. Get best discounts for weddings and events",
+            "Detail1": "An Indian bride is incomplete without the exquisite touch of traditional and modern jewelry. Eventswedobrings top jewelers of Delhi NCR, Mumbai, Chandigarh, Kolkata, Pune, Bangalore, Chennai, Hyderabad, Noida, Indore, Telangana, and other major Indian cities. From traditional jewelry to designer pieces, our partner stores deal in artifacts, designs, and gems that are truly unique and suitable for weddings, events, and gifting.",
+            "Detail2": "Whether you want to buy necklace & earrings set or required diamond jewelry on rent for an event, these Indian jewelers will provide the best deals and guarantees. Select the best jewelry vendorsin your city by looking at their portfolio. Email at info@eventswedo.com to get special offers and discounts. ",
+            "Keywords": "jewellery shops near me, jewellery makers of india, top jewelry stores in Delhi, top jewelry stores for wedding, jewelry stores for parties, rent jewelry for wedding, best jewellers of India ",
+            "Title": "Best Jewellers & Jewellery Stores India | Best Wedding Discounts "
+        },
+        "faqs": [
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Your charges are GST inclusive?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Do we get a warranty for the purchased product?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Do we get any discount on advanced bookings?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "More than 10 years",
+                "faq": "How much experience does the jeweller has?",
+                "options": [
+                    "1-3 years",
+                    "3-7 years",
+                    "7-10 years",
+                    "More than 10 years"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Are these jewelleries ISI marked?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Is rental jewelry also available with you?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            }
+        ],
+        "features": [
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "wedding jewelry"
+                ],
+                "featurename": "Jewelry types",
+                "featurequestions": "What are the jewellery design that you offer?",
+                "options": [
+                    "Wedding Jewellery",
+                    "Bridal Jewellery",
+                    "Real Jewellery",
+                    "Marble Jewellery",
+                    "silver jewelry",
+                    "diamond jeelry"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "gold jewellery"
+                ],
+                "featurename": "Jewelry type",
+                "featurequestions": "What kind of jewelleries do you make?",
+                "options": [
+                    "Gold jewellery",
+                    "Silver jewellery",
+                    "Platinum jewellery",
+                    "Diamond jewelley",
+                    "Pearl sets"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "crowns"
+                ],
+                "featurename": "hair ornaments ",
+                "featurequestions": "What are head and hair ornaments that you offer?",
+                "options": [
+                    "Crowns",
+                    "Earrings",
+                    "Fascinator",
+                    "Hairpin",
+                    "Hatpin",
+                    "Sarpech or aigrette"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "pendants"
+                ],
+                "featurename": "neck jewelry",
+                "featurequestions": "What are the neck jewelleries that you offer?",
+                "options": [
+                    "Pendants",
+                    "Necklace",
+                    "Torc",
+                    "Raani haars"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "bangles"
+                ],
+                "featurename": "Other jewelry",
+                "featurequestions": "What are the other types jewelleries that you offer?",
+                "options": [
+                    "Armlet",
+                    "Bangle",
+                    "Bracelets",
+                    "Cuff links",
+                    "Wedding rings",
+                    "Rings",
+                    "Anklet"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            }
+        ],
+        "filters": "",
+        "largeImage": "https://www.eventswedo.com/img/cat/Jewellery.jpg",
+        "policies": [
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "booking policy",
+                "policyquestion": " What is your booking policy ? ",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "cancellation policy",
+                "policyquestion": "What is your cancellation policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "terms and conditions",
+                "policyquestion": "What are you terms and conditions?",
+                "status": "1"
+            }
+        ],
+        "seoinfo": {
+            "Description": "Find the best artificial Jewellery and imitation wedding Jewelry Stores in ##city## to get some really beautiful, unique, and contemporary designs. Best Bridal Jewellery Shops in ##city##. ",
+            "Detail1": "",
+            "Detail2": "",
+            "Keywords": "",
+            "Title": "Wedding and Events Jewellery Stores in ##city##, Wedding and Events Jewellary Shop in ##city##   "
+        },
+        "status": 1,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/41/photos/cover/2y0G6339rK7XbhZJN4GhbC1zvSAe2Nkg.jpg",
+        "updatedby": 48,
+        "updatedon": "2020-12-01 12:04:32",
+        "vcategoryid": 41,
+        "vcategoryname": "Bridal Jewelry",
+        "viewcount": 7182,
+        "vslug": "jewellery-store"
+    },
+    {
+        "addedby": 47,
+        "addon": "2019-04-10 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": [
+            {
+                "answertype": "text",
+                "enquiryquestion": "What is your event date?",
+                "options": [
+                    ""
+                ],
+                "selectionoptions": "text",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "enquiryquestion": "What services do you require?",
+                "options": [
+                    "HD Makeup",
+                    "Airbrush makeup",
+                    "Guest makeup",
+                    "Party makeup"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "enquiryquestion": "For which occasion you want the makeup?",
+                "options": [
+                    "Wedding",
+                    "Engagement",
+                    "Mehndi",
+                    "Pre-wedding",
+                    "Sangeet",
+                    "Bachelor's Party",
+                    "Birthday",
+                    "Anniversary",
+                    "Others"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "enquiryquestion": "Where do you want the makeup to be done at?",
+                "options": [
+                    "My venue",
+                    "Makeup artist's studio",
+                    "Any other location"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "enquiryquestion": "What is your makeup budget?",
+                "options": [
+                    "Less than 20000",
+                    "20000 - 30000",
+                    " 30000 - 50000",
+                    "Above 50000",
+                    "Not sure"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            }
+        ],
+        "extrainfo": {
+            "Description": "We have listed the top makeup artists in India having years of experience in Bridal and Party Makeup for various occasions like weddings and events. Hire us for makeup artists in India.",
+            "Detail1": "When it comes to weddings and special events, every girl wants to be a showstopper. Eventswedobrings top makeup artists and stylists of India to bring out the queen in every woman. These famous Indian makeup artists from Delhi NCR, Mumbai, Chandigarh, Kolkata, Pune, Bangalore, Chennai, Hyderabad, Noida, Indore, Telangana, and other major Indian cities use unique cosmetic techniques to master wedding, party, and event look. ",
+            "Detail2": "Whether you want to dazzle at a wedding, corporate event or any other occasion, these top Indian makeup artists of India will get it done! Have a look at their portfolio and select the one that fits your overall budget. Email us at info@eventswedo.com to get special offers and packages from makeup artists active in your region. ",
+            "Keywords": "makeup artists of India, wedding makeup experts, top makeup experts near me, wedding makeup experts, corporate event makeup, party makeup experts india",
+            "Title": "Makeup Artist in India, Best Makeup Artists for Events, Wedding in India"
+        },
+        "faqs": [
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Your charges are GST inclusive?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Do you provide any early bird discount on advanced bookings?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Can we get a trial before hiring you?",
+                "options": [
+                    "no",
+                    "yes"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Do you have packages for brides?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Do you visit the client for makeup?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            }
+        ],
+        "features": [
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "wedding"
+                ],
+                "featurename": "events covered",
+                "featurequestions": "What types of events do you cover as makeup expert?",
+                "options": [
+                    "Wedding",
+                    "Birthday",
+                    "Anniversary",
+                    "Party ",
+                    "Ring ceremony",
+                    "Fashion event",
+                    "Family function"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Nail Polish Change"
+                ],
+                "featurename": "services offered",
+                "featurequestions": "What kind of services do you offer?",
+                "options": [
+                    "Bridal Makeup",
+                    "Airbrush Makeup",
+                    "Party Makeup",
+                    "Engagement Makeup",
+                    "Hairstyling",
+                    "Draping",
+                    "Nail Polish Change"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": [
+                    "yes"
+                ],
+                "featurename": "airbrush service",
+                "featurequestions": "Do you offer Airbrush service?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            }
+        ],
+        "filters": "",
+        "largeImage": "https://www.eventswedo.com/img/cat/MakeUp-2.jpg",
+        "policies": [
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Booking policy",
+                "policyquestion": " What is your booking policy ? ",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "cancellation policy",
+                "policyquestion": "What is your cancellation policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "terms and conditions",
+                "policyquestion": "What are your terms and conditions?",
+                "status": "1"
+            }
+        ],
+        "seoinfo": {
+            "Description": "We have listed the top makeup artists in ##city##, having years of experience in Bridal and Party Makeup for various occasions like weddings and events. Hire us for makeup artists in ##city##",
+            "Detail1": "",
+            "Detail2": "",
+            "Keywords": "makeup artists of ##city##, wedding makeup experts, top makeup experts near me, wedding makeup experts, corporate event makeup, party makeup experts ##city##",
+            "Title": "Makeup Artist in ##city##, Best Makeup Artists for Events, Wedding in ##city##"
+        },
+        "status": 1,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/42/photos/vsrpfyohkqonfjnn.jpg",
+        "updatedby": 48,
+        "updatedon": "2020-12-19 02:43:48",
+        "vcategoryid": 42,
+        "vcategoryname": "Makeup artists",
+        "viewcount": 8859,
+        "vslug": "makeup-artist"
+    },
+    {
+        "addedby": 47,
+        "addon": "2019-04-10 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": null,
+        "extrainfo": "",
+        "faqs": "",
+        "features": "",
+        "filters": "",
+        "largeImage": "https://www.eventswedo.com/img/cat/Mehndi-2.jpg",
+        "policies": "",
+        "seoinfo": null,
+        "status": 0,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/43/photos/kyvaqislrturerbk.jpg",
+        "updatedby": 47,
+        "updatedon": "2019-05-14 00:00:00",
+        "vcategoryid": 43,
+        "vcategoryname": "Mehendi_NotUsed",
+        "viewcount": 4711,
+        "vslug": "mehendi"
+    },
+    {
+        "addedby": 47,
+        "addon": "2019-04-10 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": [
+            {
+                "answertype": "multiple",
+                "enquiryquestion": "Which describes your event best?",
+                "options": [
+                    "Wedding",
+                    "Ring Ceremony",
+                    "Anniversary ",
+                    "Engagement",
+                    "Sangeet",
+                    "Mehendi",
+                    "Birthday",
+                    "Other"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "enquiryquestion": "How many guests do you plan to have?",
+                "options": [
+                    "1-50",
+                    "50-100",
+                    "100-300",
+                    "300-500",
+                    "500-1000",
+                    "1000-1500",
+                    ">1500"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "enquiryquestion": "Which additional services you might be interested in?",
+                "options": [
+                    "Indoor area",
+                    "Outdoor area",
+                    "Lighting ",
+                    "Screens",
+                    "Decor",
+                    "DJ & Entertainment",
+                    "Planning Services",
+                    "Bar",
+                    "Others"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "enquiryquestion": "How do you want your ",
+                "options": [
+                    "Breakfast",
+                    "Lunch ",
+                    "High tea",
+                    "Dinner"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "enquiryquestion": "Do you need rooms for your guests?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "enquiryquestion": "What's your estimated budget for venue services?",
+                "options": [
+                    "Over 500000",
+                    "200000 - 500000",
+                    "100000 - 200000",
+                    "80000 - 100000",
+                    "Less than 80000",
+                    "Not sure"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            }
+        ],
+        "extrainfo": {
+            "Description": "Book luxurious & budget wedding halls, marriage venues, and banquet resorts in India. Browse reviews, view policies, and compare packages to book the hall or resort for your wedding or corporate event. ",
+            "Detail1": "Perfect event demandsa perfect venue. Eventswedobrings the list of top venues in Delhi NCR, Mumbai, Chandigarh, Kolkata, Pune, Bangalore, Chennai, Hyderabad, Noida, Indore, Telangana, and other major Indian cities. From budget oriented hotels to royal banquet halls, we got everything arranged on Eventswedo. All you have to do is find a venue that suits your needs and confirm availability on your event date! ",
+            "Detail2": "Our partner venues are famous for all types of events including weddings, anniversaries, pre-wedding ceremonies, conference meetings, parties and birthdays. Make sure to check out the portfolio of every single vendor of your city, gather information and contact them to hire for your event. Email at info@eventswedo.com to get recommendations from our team!\r\n\r\n",
+            "Keywords": "rent wedding venues, top wedding venues, corporate event venues, wedding hotels in India, business event hotels in india, banquet resorts in India",
+            "Title": "Best Wedding & Banquet Halls India | Budget Wedding Venues "
+        },
+        "faqs": [
+            {
+                "answertype": "one",
+                "defaultanswer": "10 to 20",
+                "faq": "How many rooms are available for guest accommodation?",
+                "options": [
+                    "10 to 20",
+                    "20 to 30",
+                    "30 to 50",
+                    "more than 50"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Can we bring in outside suppliers?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "No DJ after 10pm",
+                "faq": "What is your permitted DJ timings?",
+                "options": [
+                    "No DJ after 10pm",
+                    "DJ closes at midnight",
+                    "Play as long as you like"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "More than 10 years",
+                "faq": "For how long you have been serving your clients?",
+                "options": [
+                    "0-2 years",
+                    "2-5 years",
+                    "5-10 years",
+                    "More than 10 years"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "yes",
+                "faq": "Does your venue has in-house vendor services?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "many",
+                "defaultanswer": "Liquor not available",
+                "faq": "What is your alcohol policy?",
+                "options": [
+                    "Liquor not available",
+                    "Liquor from outside allowed",
+                    "In-house bar available"
+                ],
+                "selectionoptions": "many",
+                "status": "1"
+            },
+            {
+                "answertype": "many",
+                "defaultanswer": "No inhouse decoration services",
+                "faq": "What is your policy on decoration?",
+                "options": [
+                    "No inhouse decoration services",
+                    "Third-party decorators allowed",
+                    "Inhouse decoration services available"
+                ],
+                "selectionoptions": "many",
+                "status": "1"
+            },
+            {
+                "answertype": "many",
+                "defaultanswer": "No in-house DJ",
+                "faq": "What is your DJ policy?",
+                "options": [
+                    "No in-house DJ",
+                    "In-house DJ available",
+                    "Outdoor DJ permitted",
+                    "Terrace DJ permitted",
+                    "Third party DJ permitted"
+                ],
+                "selectionoptions": "many",
+                "status": "1"
+            },
+            {
+                "answertype": "many",
+                "defaultanswer": "No inhouse catering services",
+                "faq": "What is your catering policy?",
+                "options": [
+                    "No inhouse catering services",
+                    "Third-party caterers allowed",
+                    "Inhouse catering services available"
+                ],
+                "selectionoptions": "many",
+                "status": "1"
+            },
+            {
+                "answertype": "many",
+                "defaultanswer": "Jain food",
+                "faq": "Do you offer specials in your meals under catering?",
+                "options": [
+                    "Jain food",
+                    "Fast food",
+                    "vraat food",
+                    "Punjabi food",
+                    "Chinese food",
+                    "Christian foods",
+                    "Muslim foods",
+                    "Marwadi food",
+                    "South Indian food",
+                    "Local cusines"
+                ],
+                "selectionoptions": "many",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": "2 star",
+                "faq": "Does your venue has a star rating? If yes, please rate",
+                "options": [
+                    "2 star",
+                    "3 star",
+                    "4 star",
+                    "5 star",
+                    "7 star",
+                    "NA"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "many",
+                "defaultanswer": "Changing rooms",
+                "faq": "Please name the amenities available at your wedding venue?",
+                "options": [
+                    "Parking",
+                    "Changing rooms",
+                    "DJ",
+                    "Guest halls",
+                    "Garden",
+                    "Fully air conditioned rooms",
+                    "In-house restaurant",
+                    "Valet service"
+                ],
+                "selectionoptions": "many",
+                "status": "1"
+            }
+        ],
+        "features": [
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Public Events"
+                ],
+                "featurename": "events hosted",
+                "featurequestions": "what kind of events have you hosted?",
+                "options": [
+                    "Small ceremonies",
+                    "Pre-wedding and wedding functions",
+                    "Receptions",
+                    "corporate events",
+                    "Parties",
+                    "Public Events",
+                    "ring ceremonies"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Rooftop hall"
+                ],
+                "featurename": "Spaces available",
+                "featurequestions": "What are the different spaces that your venue have?",
+                "options": [
+                    "Hall",
+                    "Banquet hall",
+                    "Garden",
+                    "Poolside",
+                    "Conference hall",
+                    "Rooftop hall"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": [
+                    "less than 500"
+                ],
+                "featurename": "Hall Capacity including seating and standings",
+                "featurequestions": "Maximum Guests in Hall",
+                "options": [
+                    "between 500 and 1000",
+                    "between 1000 and 1500",
+                    "less than 100",
+                    "between 100 and 300",
+                    "between 300 and 500"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": [
+                    "between 1500 and 1500"
+                ],
+                "featurename": "Lawn Capacity including seating and standings",
+                "featurequestions": "Maximum Guests in Lawn",
+                "options": [
+                    "less than 300",
+                    "between 300 and 500",
+                    "between 500 and 1000",
+                    "between 1000 and 1500",
+                    "more than 1500"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": [
+                    "between 100 and 300"
+                ],
+                "featurename": "Hall Seating Capacity",
+                "featurequestions": "Hall Seating",
+                "options": [
+                    "less than 100",
+                    "between 100 and 300",
+                    "between 300 and 500",
+                    "more than 500"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": [
+                    "between 100 and 300"
+                ],
+                "featurename": "Lawn Seating Capacity",
+                "featurequestions": "Lawn Seating Capacity",
+                "options": [
+                    "less than 100",
+                    "between 100 and 300",
+                    "between 300 and 500",
+                    "more than 500"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            },
+            {
+                "answertype": "multiple",
+                "defaultanswer": [
+                    "Evening : 7:00 PM to 11:00 PM",
+                    "Morning : 11:00 AM to 3:00 PM"
+                ],
+                "featurename": "Available Time Slots",
+                "featurequestions": "Available Time Slots ",
+                "options": [
+                    "Morning : 11:00 AM to 3:00 PM",
+                    "Evening : 7:00 PM to 11:00 PM"
+                ],
+                "selectionoptions": "multiple",
+                "status": "1"
+            },
+            {
+                "answertype": "one",
+                "defaultanswer": [
+                    "between 50 and 100"
+                ],
+                "featurename": "Total Rooms",
+                "featurequestions": "Total Rooms Available ",
+                "options": [
+                    "less than 50",
+                    "between 50 and 100",
+                    "between 100 and 150",
+                    "more than 150"
+                ],
+                "selectionoptions": "one",
+                "status": "1"
+            }
+        ],
+        "filters": "",
+        "largeImage": "https://d3yc0vf2cv0zf.cloudfront.net/categories/26/photos/wpsgbsjutrzibqou.jpg",
+        "policies": [
+            {
+                "answertype": "text",
+                "defaultanswer": "1. Food provided by the venue\r\n2. Outside food/caterer allowed at the venue\r\n3. Non-Veg allowed at the venue",
+                "policyname": "Catering policy",
+                "policyquestion": "What is the policy for catering?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "1. Outside decorators allowed\r\n2. Decor provided by the venue\r\n3. Decoration starting minimum cost condition apply",
+                "policyname": "Decor policy",
+                "policyquestion": "What is the policy for Decor?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "1. Alcohol allowed at the venue\r\n2. Outside alcohol allowed at the venue",
+                "policyname": "alcohol policy",
+                "policyquestion": "What is the policy for outside alcohol?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "DJ policy",
+                "policyquestion": "What is the policy for DJ?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "30% at the time of booking",
+                "policyname": "Booking policy",
+                "policyquestion": " What is your booking policy ? ",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "Non cancellable",
+                "policyname": "cancellation policy",
+                "policyquestion": "What is your cancellation policy?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "1. Valet provided by venue\r\n2. Parking space available for 500 vehicles",
+                "policyname": "Parking Policy",
+                "policyquestion": "What is your parking policy",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "Taxes F&B : 18.00%",
+                "policyname": "Tax Policy",
+                "policyquestion": "What is your tax policy",
+                "status": "1"
+            }
+        ],
+        "seoinfo": {
+            "Description": "",
+            "Detail1": "",
+            "Detail2": "",
+            "Keywords": "",
+            "Title": ""
+        },
+        "status": 1,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/26/photos/wpsgbsjutrzibqou.jpg",
+        "updatedby": 48,
+        "updatedon": "2020-12-19 02:37:47",
+        "vcategoryid": 44,
+        "vcategoryname": "Venues",
+        "viewcount": 20239,
+        "vslug": "event-venues"
+    },
+    {
+        "addedby": 47,
+        "addon": "2019-04-10 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": null,
+        "extrainfo": "",
+        "faqs": "",
+        "features": "",
+        "filters": "",
+        "largeImage": "https://d3yc0vf2cv0zf.cloudfront.net/categories/26/photos/wpsgbsjutrzibqou.jpg",
+        "policies": "",
+        "seoinfo": null,
+        "status": 0,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/26/photos/wpsgbsjutrzibqou.jpg",
+        "updatedby": 47,
+        "updatedon": "2019-05-14 00:00:00",
+        "vcategoryid": 45,
+        "vcategoryname": "NOT TO BE USED",
+        "viewcount": 1,
+        "vslug": "not-to-used"
+    },
+    {
+        "addedby": 47,
+        "addon": "2019-04-10 00:00:00",
+        "basic_info": "",
+        "enquiry_questions": null,
+        "extrainfo": {
+            "Description": "",
+            "Detail1": "",
+            "Detail2": "",
+            "Keywords": "",
+            "Title": ""
+        },
+        "faqs": "",
+        "features": [
+            {
+                "answertype": "text",
+                "defaultanswer": [
+                    ""
+                ],
+                "featurename": "Total Relevant Experience",
+                "featurequestions": "Total Relevant Experience",
+                "options": [
+                    ""
+                ],
+                "selectionoptions": "text",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": [
+                    ""
+                ],
+                "featurename": "USP",
+                "featurequestions": "What is your main USP?",
+                "options": [
+                    ""
+                ],
+                "selectionoptions": "text",
+                "status": "1"
+            }
+        ],
+        "filters": "",
+        "largeImage": "https://d3yc0vf2cv0zf.cloudfront.net/categories/46/photos/urelxemmpmpfmpuo.jpg",
+        "policies": [
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Booking",
+                "policyquestion": "What is the policies for Booking?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Cancellation",
+                "policyquestion": "What is your Cancellation policies?",
+                "status": "1"
+            },
+            {
+                "answertype": "text",
+                "defaultanswer": "",
+                "policyname": "Travel Costs",
+                "policyquestion": "What is the policies for Travel Costs?",
+                "status": "1"
+            }
+        ],
+        "seoinfo": {
+            "Description": "",
+            "Detail1": "",
+            "Detail2": "",
+            "Keywords": "",
+            "Title": ""
+        },
+        "status": 0,
+        "thumbnail": "https://d3yc0vf2cv0zf.cloudfront.net/categories/46/photos/meltfsnkuoakuxng.jpg",
+        "updatedby": 48,
+        "updatedon": "2020-06-26 08:07:09",
+        "vcategoryid": 46,
+        "vcategoryname": "Anchors",
+        "viewcount": 21,
+        "vslug": "anchors"
+    }
+]

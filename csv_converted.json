@@ -1,0 +1,26 @@
+{
+    "Catering": {
+        "Category": "Catering",
+        "City": "Noida",
+        "Description": "We are providing the Best catering service in delhi-Ncr",
+        "Amount": "140000"
+    },
+    "Makeup Designing": {
+        "Category": "Makeup Designing",
+        "City": "Ghaziabad",
+        "Description": "We are into makeup service industry since 2010.",
+        "Amount": "49000"
+    },
+    "Photographer": {
+        "Category": "Photographer",
+        "City": "Delhi",
+        "Description": "We are the best photographer in Delhi.",
+        "Amount": "102000"
+    },
+    "Choreographer": {
+        "Category": "Choreographer",
+        "City": "Gurgaon",
+        "Description": "I have done a specialist training in Dance.",
+        "Amount": "5000"
+    }
+}
