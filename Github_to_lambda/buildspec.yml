@@ -1,0 +1,22 @@
+version: 0.2
+batch:
+  fast-fail: false
+phases:
+  install: 
+    runtime-versions:
+      python: 3.8
+    commands: 
+      - echo "installing dependencies...."
+      - pip install -r requirements.txt -t lib
+  build: 
+    commands:
+      - echo "zippling deployment package.."
+      - cd lib
+      - zip -r ../deployment_package.zip .
+      - cd ..
+      - zip -g deployment_package.zip lambda_function.py
+  post_build:
+    commands:
+      - echo "Updating lambda function.."
+      - aws lambda update-function-code --function-name github-to-lambda --zip-file fileb://deployment_package.zip 
+      - echo "Successful Done!!"
